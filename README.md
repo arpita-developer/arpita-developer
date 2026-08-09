@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Arpita 👋
+
 
 <img src="space.svg" width="100%">
 
