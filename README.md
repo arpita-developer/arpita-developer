@@ -2,7 +2,7 @@
 
 # Hi, I'm Arpita 👋
 
-<img src="./assets/space.svg" width="100%">
+<img src="space.svg" width="100%">
 
 ### Embedded Systems | Digital Design | Verilog
 
